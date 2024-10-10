@@ -22,10 +22,21 @@
 # version: "2024-03-12"
 #
 # 此行之后不能写注释
-
-噷	hm
-呣	m
-呒	m
+catppuccin	cat	1
+moegirl	moegirl	1
+hyprland	hypr	1
+termux	ter	3
+黄前久美子kumiko	hqjmz	1
+KimmyXYC	kim	3
+Isoheptane	qtwt	1
+ryan4yin	ryan	1
+Ruixi-rebirth	ruixi	1
+Aleksana	alek	1
+ikoxcw	iko	1
+home-manager	home	3
+flakes	flake	2
+nix	nix	1
+nixos	nixos	2
 
 有	u	3
 又	u	2

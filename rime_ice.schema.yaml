@@ -5,7 +5,7 @@
 # 方案说明
 schema:
   schema_id: rime_ice
-  name: 雾凇拼音
+  name: 薄荷拼音
   version: "2024-02-25"
   author:
     - Dvel
@@ -26,11 +26,18 @@ switches:
     states: [ 中, Ａ ]
   - name: ascii_punct  # 中英标点
     states: [ ¥, $ ]
+    reset: 1
+    reset: 1
+    reset: 1
+    reset: 1
+    reset: 1
+    reset: 0
+    reset: 0
   - name: traditionalization
     states: [ 简, 繁 ]
   - name: emoji
-    states: [ 💀, 😄 ]
-    reset: 1
+    states: [ ❄️ , 🌸 ]
+    reset: 0
   - name: full_shape
     states: [ 半角, 全角 ]
   - name: search_single_char  # search.lua 的功能开关，辅码查词时是否单字优先
